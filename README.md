@@ -3,6 +3,7 @@
 
 Welcome to the **Car Guessing Game**, a fun, interactive game built using HTML, CSS, and JavaScript!
 
+
 ## Gameplay
 
 The objective of the game is to guess the correct combination of colored cars hidden behind a row of hidden car images. You have multiple attempts to guess the correct color and position of the cars. After each guess, you'll receive feedback on how many cars are in the correct color and how many are both the correct color and in the correct position.
@@ -28,6 +29,9 @@ The objective of the game is to guess the correct combination of colored cars hi
 6. If you guess all correct cars in their correct positions, you win!
 7. If you use all 10 attempts without success, the game ends, and the correct answer is revealed.
 
+## Play Online
+You can play the Car Guessing Game directly on GitHub Pages: [Play Now](https://donbagger.github.io/Car-Guessing-Game/)
+
 ## Technologies Used
 - **HTML5**: Markup for the game structure.
 - **CSS3**: Styling and layout for the game interface.
@@ -41,7 +45,7 @@ You can view the source code and contribute at: [Car Guessing Game Repository](h
    ```
    git clone https://github.com/donbagger/Car-Guessing-Game.git
    ```
-2. Open the `index.html` file in your web browser to start playing the game.
+2. Open the `index.html` file in your web browser to start playing the game locally.
 
 ## License
 This project is licensed under the MIT License.
